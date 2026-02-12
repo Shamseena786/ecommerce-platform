@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Commerce",
+  "description": "A cutting-edge e-commerce platform featuring AI-powered personal styling, smart search, and a seamless shopping experience driven by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
